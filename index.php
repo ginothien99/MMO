@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+    <meta name="description" content="Likesieuvip.vn">
+    <meta name="author" content="Đặng Hoàn Thiện">
+    <meta property="og:site_name" content="" />
+    <meta property="og:site" content="" />
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="article" />
+
+    <title>Likesieuvip.vn</title>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js" type="c62d08305f2db495131675e9-text/javascript"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap&subset=latin-ext" rel="stylesheet">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://pro.fontawesome.com/releases/v5.7.0/css/all.css" rel="stylesheet">
+    <link href="assets/css/swiper.css" rel="stylesheet">
+    <link href="assets/css/magnific-popup.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon" />
+
+
+</head>
+<body data-spy="scroll" data-target=".fixed-top">
+
+<div class="spinner-wrapper">
+    <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+    </div>
+</div>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+    <div class="container">
+
+        <a class="navbar-brand logo-image" href="/" style="text-decoration: none;">Likesieuvip.vn</a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-awesome fas fa-bars"></span>
+            <span class="navbar-toggler-awesome fas fa-times"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#header">TRANG CHỦ <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#service">DỊCH VỤ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#features">LÝ DO LỰA CHỌN</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#details">LIÊN HỆ</a>
+                </li>
+<!--                <li class="nav-item">-->
+<!--                    <a class="nav-link page-scroll" href="#loichungnhan">CẢM NHẬN CỦA KHÁCH HÀNG</a>-->
+<!--                </li>-->
+            </ul>
+            <span class="nav-item">
+<a class="btn-outline-sm" href="login.php">ĐĂNG NHẬP</a>
+</span>
+            <span class="nav-item">
+<a class="btn-outline-sm" href="signup.php">ĐĂNG KÝ</a>
+</span>
+        </div>
+    </div>
+</nav>
+
+<div data-aos="fade-up">
+
+    <header id="header" class="header">
+        <div class="header-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-xl-5">
+                        <div class="text-container">
+                            <h1>Likesieuvip.vn</h1>
+                            <p class="p-large">Trang web quảng cáo truyền thông xã hội tốt nhất</p>
+                            <p class="p-large">Facebook, instagram, youtube, tiktok, shopee
+                                Chúng tôi có các dịch vụ tốt nhất và rẻ nhất như lượt thích trên instagram, lượt theo dõi, lượt thích và người theo dõi trên facebook, lượt xem và lượt thích trên youtube và bất kỳ dịch vụ truyền thông xã hội nào bạn cần.</p>
+                            <a class="btn-solid-lg page-scroll" href="login.php">Đăng nhập</a>
+                            <a class="btn-solid-lg page-scroll" href="signup.php">Đăng ký</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-xl-7">
+                        <div class="image-container">
+                            <div class="img-wrapper">
+                                <img class="img-fluid" src="assets/images/sign_up/service.png" alt="alternative">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <svg class="header-frame" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1920 310">
+        <defs>
+            <style>
+                .cls-1 {
+                    fill: #5f4def;
+                }
+            </style>
+        </defs>
+        <title>header-frame</title>
+        <path class="cls-1" d="M0,283.054c22.75,12.98,53.1,15.2,70.635,14.808,92.115-2.077,238.3-79.9,354.895-79.938,59.97-.019,106.17,18.059,141.58,34,47.778,21.511,47.778,21.511,90,38.938,28.418,11.731,85.344,26.169,152.992,17.971,68.127-8.255,115.933-34.963,166.492-67.393,37.467-24.032,148.6-112.008,171.753-127.963,27.951-19.26,87.771-81.155,180.71-89.341,72.016-6.343,105.479,12.388,157.434,35.467,69.73,30.976,168.93,92.28,256.514,89.405,100.992-3.315,140.276-41.7,177-64.9V0.24H0V283.054Z" />
+    </svg>
+
+</div>
+<div data-aos="fade-down">
+
+    <div class="slider-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div class="slider-container">
+                        <div class="swiper-container image-slider">
+                            <div class="swiper-wrapper">
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div id="service" data-aos="fade-right">
+
+    <div class="cards-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="above-heading">Chúng tôi cung cấp</div>
+                    <h2 class="h2-heading">Những dịch vụ sau</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="assets/images/sign_up/fb1.png" alt="alternative">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Facebook</h4>
+                            <p>1 trong những chức năng tốt nhất của chúng tôi. Tăng like, bình luận, chia sẻ bài viết, chia sẻ livestream, tăng tương tác, lọc bạn bè ...</p>
+                        </div>
+                    </div>
+
+
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="assets/images/sign_up/youtube1.png" alt="alternative">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Youtube</h4>
+                            <p>Tăng số lượt xem video, like video, bình luận video, đăng kí kênh youtube...</p>
+                        </div>
+                    </div>
+
+
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="assets/images/sign_up/ig1.png" alt="alternative">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Instagram</h4>
+                            <p>Tăng số lượt xem bài viết, like bài viết, bình luận bài viết, đăng kí instagram ...</p>
+                        </div>
+                    </div>
+
+
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="assets/images/sign_up/tiktok.png" alt="alternative">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Tiktok</h4>
+                            <p>Tăng số lượng theo dõi, bình luận video, like video, số lượt xem ...</p>
+                        </div>
+                    </div>
+
+
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="assets/images/sign_up/shopee1.png" alt="alternative">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Shopee</h4>
+                            <p>Tăng số lượng người theo dõi shop, số lượng tim của sản phẩm, seeding livestream...</p>
+                        </div>
+                    </div>
+
+
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="assets/images/sign_up/sv.jpg" alt="alternative">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Dịch vụ khác</h4>
+                            <p>Spam SMS, mua proxy, bán account clone facebook, bật khiên avatar facebook...</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div data-aos="fade-left">
+
+    <div id="features" class="tabs">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="above-heading">Lý do bạn nên sử dụng dịch vụ tại</div>
+                    <h2 class="h2-heading">LIKESIEUVIP.VN</h2>
+                    <p class="p-heading">Với trên 5 năm làm việc trong lĩnh vực dịch vụ mạng xã hội được tin dùng bởi hàng nghìn khách hàng, Likengay.vn không ngừng thay đổi nhằm đáp ứng nhu cầu ngày càng cao của khách hàng.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <ul class="nav nav-tabs" id="argoTabs" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" id="nav-tab-1" data-toggle="tab" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="true"><i class="fas fa-list"></i>Bảo mật thông tin</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="nav-tab-2" data-toggle="tab" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false"><i class="fas fa-envelope-open-text"></i>Chi phí thấp</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="nav-tab-3" data-toggle="tab" href="#tab-3" role="tab" aria-controls="tab-3" aria-selected="false"><i class="fas fa-chart-bar"></i>Hỗ trợ nhiệt tình</a>
+                        </li>
+                    </ul>
+
+
+                    <div class="tab-content" id="argoTabsContent">
+
+                        <div class="tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="tab-1">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="image-container">
+                                        <img class="img-fluid" src="assets/images/sign_up/security.png" alt="alternative">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="text-container">
+                                        <h3>Bảo mật</h3>
+                                        <p>Đội ngũ LIKESIEUVIP.VN xin cam kết với quý khách hàng về vấn đề bảo mật </br>
+                                            Thông tin khách hàng cung cấp được LIKESIEUVIP.VN bảo mật hoàn toàn.
+                                        </p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab-2">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="image-container">
+                                        <img class="img-fluid" src="assets/images/sign_up/money.png" alt="alternative">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="text-container">
+                                        <h3>Giá cả hợp lý</h3>
+                                        <p>Chúng tôi cung cấp dịch vụ Facebook, Youtube, Tiktok, Shopee,... rẻ nhất thị trường hiện tại.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="tab-3">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="image-container">
+                                        <img class="img-fluid" src="assets/images/sign_up/support.png" alt="alternative">
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="text-container">
+                                        <h3>Hỗ trợ</h3>
+                                        <p>Với đội ngũ trẻ, tận tâm - am hiểu với nghề. Chúng tôi chắc chắn sẽ đem lại hài lòng cho bạn khi sử dụng dịch vụ tại LIKESIEUVIP.VN</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div data-aos="flip-up">
+
+
+    <div id="details-lightbox-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="container">
+            <div class="row">
+                <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+                <div class="col-lg-8">
+                    <div class="image-container">
+                        <img class="img-fluid" src="assets/images/sign_up/details-lightbox.png" alt="alternative">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <h3>List Building</h3>
+                    <hr>
+                    <h5>Core service</h5>
+                    <p>It's very easy to start using Tivo. You just need to fill out and submit the Sign Up Form and you will receive access to the app.</p>
+                    <ul class="list-unstyled li-space-lg">
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">List building framework</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Easy database browsing</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">User administration</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Automate user signup</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Quick formatting tools</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Fast email checking</div>
+                        </li>
+                    </ul>
+                    <a class="btn-solid-reg mfp-close" href="sign-up.html">SIGN UP</a> <a class="btn-outline-reg mfp-close as-button" href="#screenshots">BACK</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="details-lightbox-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="container">
+            <div class="row">
+                <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+                <div class="col-lg-8">
+                    <div class="image-container">
+                        <img class="img-fluid" src="assets/images/sign_up/details-lightbox.png" alt="alternative">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <h3>Campaign Monitoring</h3>
+                    <hr>
+                    <h5>Core service</h5>
+                    <p>It's very easy to start using Tivo. You just need to fill out and submit the Sign Up Form and you will receive access to the app.</p>
+                    <ul class="list-unstyled li-space-lg">
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">List building framework</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Easy database browsing</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">User administration</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Automate user signup</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Quick formatting tools</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Fast email checking</div>
+                        </li>
+                    </ul>
+                    <a class="btn-solid-reg mfp-close" href="#">SIGN UP</a> <a class="btn-outline-reg mfp-close as-button" href="#screenshots">BACK</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="details-lightbox-3" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="container">
+            <div class="row">
+                <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+                <div class="col-lg-8">
+                    <div class="image-container">
+                        <img class="img-fluid" src="assets/images/sign_up/details-lightbox.png" alt="alternative">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <h3>Analytics Tools</h3>
+                    <hr>
+                    <h5>Core service</h5>
+                    <p>It's very easy to start using Tivo. You just need to fill out and submit the Sign Up Form and you will receive access to the app.</p>
+                    <ul class="list-unstyled li-space-lg">
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">List building framework</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Easy database browsing</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">User administration</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Automate user signup</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Quick formatting tools</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Fast email checking</div>
+                        </li>
+                    </ul>
+                    <a class="btn-solid-reg mfp-close" href="sign-up.html">SIGN UP</a> <a class="btn-outline-reg mfp-close as-button" href="#screenshots">BACK</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+<div data-aos="zoom-in">
+
+    <div id="details" class="basic-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+                        <h2>Liên hệ</h2>
+                        <p>Bạn cần hỗ trợ về dịch vụ Facebook, Youtube, Tiktok ... hay các dịch vụ mạng xã hội khác vui lòng liên hệ Hotline, Zalo để được hỗ trợ nhanh nhất. Chúng tôi hỗ trợ khách hàng qua Zalo 24/7, Hotline (7h – 22h) hàng ngày.
+                        </p>
+                        <ul class="list-unstyled li-space-lg">
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">Hotline: 0905589806</div>
+                            </li>
+                            <li class="media">
+                                <i class="fas fa-square"></i>
+                                <div class="media-body">Zalo: 0905589806</div>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="image-container">
+                        <img class="img-fluid" src="assets/images/sign_up/contact.png" alt="alternative">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div class="image-container">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!--<div id="loichungnhan" data-aos="zoom-in-right">-->
+<!---->
+<!--    <div class="slider-2">-->
+<!--        <div class="container">-->
+<!--            <div class="row">-->
+<!--                <div class="col-lg-12">-->
+<!---->
+<!--                    <div class="slider-container">-->
+<!--                        <div class="swiper-container text-slider">-->
+<!--                            <div class="swiper-wrapper">-->
+<!---->
+<!--                                <div class="swiper-slide">-->
+<!--                                    <div class="image-wrapper">-->
+<!--                                        <img class="img-fluid" src="assets/images/sign_up/img2.jpg" alt="alternative">-->
+<!--                                    </div>-->
+<!--                                    <div class="text-wrapper">-->
+<!--                                        <div class="testimonial-text">Trước kia facebook của mình không có tương tác. Đăng ảnh hoặc status lên chỉ nhận được 5-10 like, từ khi sử dụng dịch vụ của likengay.vn tôi rất hài lòng. Facebook của tôi bây giờ đạt được tỉ lệ tương tác rất tốt</div>-->
+<!--                                        <div class="testimonial-author">Nguyễn Thị Ánh</div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!---->
+<!---->
+<!--                                <div class="swiper-slide">-->
+<!--                                    <div class="image-wrapper">-->
+<!--                                        <img class="img-fluid" src="assets/images/sign_up/img1.jpg" alt="alternative">-->
+<!--                                    </div>-->
+<!--                                    <div class="text-wrapper">-->
+<!--                                        <div class="testimonial-text">Mình làm youtube "lẹt đẹt" được có 100 sub, từ khi biết đến likengay.vn kênh của mình hoạt động khá ổn và 1 điều làm mình vui nhất đó là kênh Youtube của mình đã được bật kiếm tiền ^^</div>-->
+<!--                                        <div class="testimonial-author">Vân Anh</div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!---->
+<!---->
+<!--                                <div class="swiper-slide">-->
+<!--                                    <div class="image-wrapper">-->
+<!--                                        <img class="img-fluid" src="assets/images/sign_up/img3.jpg" alt="alternative">-->
+<!--                                    </div>-->
+<!--                                    <div class="text-wrapper">-->
+<!--                                        <div class="testimonial-text">Tôi đang sử dụng dịch vụ Bot Facebook của LIKENGAY.VN. Sau 1 thời gian sử dụng tôi rất hài lòng về dịch vụ và được các hỗ trợ viên support rất nhiệt tình</div>-->
+<!--                                        <div class="testimonial-author">Nguyễn Lợi</div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!---->
+<!--                            </div>-->
+<!---->
+<!--                            <div class="swiper-button-next"></div>-->
+<!--                            <div class="swiper-button-prev"></div>-->
+<!---->
+<!--                        </div>-->
+<!--                    </div>-->
+<!---->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!---->
+<!--</div>-->
+
+<svg class="footer-frame" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1920 79">
+    <defs>
+        <style>
+            .cls-2 {
+                fill: #5f4def;
+            }
+        </style>
+    </defs>
+    <title>footer-frame</title>
+    <path class="cls-2" d="M0,72.427C143,12.138,255.5,4.577,328.644,7.943c147.721,6.8,183.881,60.242,320.83,53.737,143-6.793,167.826-68.128,293-60.9,109.095,6.3,115.68,54.364,225.251,57.319,113.58,3.064,138.8-47.711,251.189-41.8,104.012,5.474,109.713,50.4,197.369,46.572,89.549-3.91,124.375-52.563,227.622-50.155A338.646,338.646,0,0,1,1920,23.467V79.75H0V72.427Z" transform="translate(0 -0.188)" />
+</svg>
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="footer-col first">
+                    <h4>LIKESIEUVIP.VN</h4>
+                    <p class="p-small">Hệ thống tương tác mạng xã hội hàng đầu Việt Nam</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="footer-col middle">
+                    <h4>Dịch vụ nổi bật</h4>
+                    <ul class="list-unstyled li-space-lg p-small">
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Facebook</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-square"></i>
+                            <div class="media-body">Youtube</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="footer-col last">
+                    <h4>Liên hệ</h4>
+                    <ul class="list-unstyled li-space-lg p-small">
+                        <li class="media">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <div class="media-body">Đà Nẵng</div>
+                        </li>
+                        <li class="media">
+                            <i class="fas fa-envelope"></i>
+                            <div class="media-body"><a class="white" href="/cdn-cgi/l/email-protection#adc3cad8d4c8c3cec5d8c3ca9d949599edcac0ccc4c183cec2c0"><span class="__cf_email__" data-cfemail="d2bcb5a7abb7bcb1baa7bcb5e2ebeae692b5bfb3bbbefcb1bdbf">[email&#160;protected]</span></a> <i class="fas fa-globe"></i><a class="white" href="#your-link">http://likesieuvip.vn</a></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="copyright">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <p class="p-small">Copyright © 2021 <a href="https://likesieuvip.vn">likesieuvip.vn</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="c62d08305f2db495131675e9-text/javascript">
+            AOS.init({
+                duration: 1400,
+            })
+        </script>
+
+<script src="assets/js/jquery.js" type="c62d08305f2db495131675e9-text/javascript"></script>
+<script src="assets/js/popper.min.js" type="c62d08305f2db495131675e9-text/javascript"></script>
+<script src="assets/js/bootstrap.min.js" type="c62d08305f2db495131675e9-text/javascript"></script>
+<script src="assets/js/jquery.easing.min.js" type="c62d08305f2db495131675e9-text/javascript"></script>
+<script src="assets/js/swiper.min.js" type="c62d08305f2db495131675e9-text/javascript"></script>
+<script src="assets/js/jquery.magnific-popup.js" type="c62d08305f2db495131675e9-text/javascript"></script>
+<script src="assets/js/validator.min.js" type="c62d08305f2db495131675e9-text/javascript"></script>
+<script src="assets/js/scripts.js?v=1" type="c62d08305f2db495131675e9-text/javascript"></script>
+<div id="fb-root"></div>
+<script type="c62d08305f2db495131675e9-text/javascript">
+    window.fbAsyncInit = function() {
+        FB.init({
+            xfbml: true,
+            version: 'v8.0'
+        });
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!--<div class="fb-customerchat" attribution=setup_tool page_id="112667230084759" logged_in_greeting="Likesieuvip có thể giúp gì cho bạn. Nếu có bất cứ vấn đề gì hãy liên lạc với fanpage để được giải quyết ngay" logged_out_greeting="Likengay có thể giúp gì cho bạn. Nếu có bất cứ vấn đề gì hãy liên lạc với fanpage để được giải quyết ngay">-->
+<!--</div>-->
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="c62d08305f2db495131675e9-|49" defer=""></script></body>-->
+</html>

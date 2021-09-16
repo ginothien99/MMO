@@ -1,0 +1,76 @@
+.input-the-left {
+    float: left;
+}
+
+.button-the-right {
+    float: left;
+}
+
+.button-the-right button {
+    height: 35px;
+    border-radius: 0px;
+}
+
+.input-the-left input {
+    height: 35px;
+    border-radius: 0px;
+    margin-right: -1px;
+    border-right: none;
+}
+
+.create-input-coppy {
+    float: left;
+    margin-top: 20px;
+}
+
+.payment-QR-code,
+.payment-momo,
+.payment-QR-code-momo {
+    margin-top: 20px;
+}
+
+.text-guide {
+    margin-bottom: 20px;
+}
+
+.contact-facebook,
+.contact-zalo,
+.contact-phone {
+    margin-top: 10%;
+    display: inline-block;
+    float: left;
+}
+
+.icon-facebook,
+.icon-zalo,
+.icon-phone {
+    float: left;
+}
+
+.info-facebook-right,
+.info-zalo-right,
+.icon-phone-right {
+    float: left;
+}
+
+.icon-facebook img,
+.icon-zalo img,
+.icon-phone img {
+    width: 50%;
+}
+
+
+/*CSS Bang Gia*/
+
+.row-chung {
+    text-align: center;
+    background-color: #3367d6;
+    color: white;
+}
+
+.row-chung-2 {
+    text-align: center;
+    background-color: #28a745;
+    color: white;
+    text-transform: capitalize;
+}
